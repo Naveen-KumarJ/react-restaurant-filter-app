@@ -1,12 +1,23 @@
-# React + Vite
+# 🍽️ React Restaurant Filter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and responsive React.js application that displays a list of restaurants. Users can search by restaurant name and filter by rating. The app uses Tailwind CSS for styling and is modularly built with reusable components.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Search restaurants by name
+- ⭐ Filter restaurants by rating
+- 💅 Responsive design using Tailwind CSS
+- 🧩 Modular components for better code organization
 
-## Expanding the ESLint configuration
+## 📸 Live Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[Live Demo](https://react-restaurant-filter-app.vercel.app/)
+
+## 🛠️ Technologies Used
+
+- React.js
+- Tailwind CSS
+- JavaScript
+- React Icons
+
+> **Made with 💓 by Naveen Kumar J**
